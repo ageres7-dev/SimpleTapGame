@@ -11,6 +11,8 @@
 		3BAABCD72A5BDF5700D879D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAABCD62A5BDF5700D879D4 /* ContentView.swift */; };
 		3BAABCD92A5BDF5800D879D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BAABCD82A5BDF5800D879D4 /* Assets.xcassets */; };
 		3BAABCDC2A5BDF5800D879D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BAABCDB2A5BDF5800D879D4 /* Preview Assets.xcassets */; };
+		3BAABCE52A5BE00C00D879D4 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */; };
+		3BAABCE72A5BEACA00D879D4 /* prosto-chpok.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3BAABCD62A5BDF5700D879D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BAABCD82A5BDF5800D879D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BAABCDB2A5BDF5800D879D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "prosto-chpok.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				3BAABCD42A5BDF5700D879D4 /* SimpleTapGameApp.swift */,
 				3BAABCD62A5BDF5700D879D4 /* ContentView.swift */,
+				3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */,
+				3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */,
 				3BAABCD82A5BDF5800D879D4 /* Assets.xcassets */,
 				3BAABCDA2A5BDF5800D879D4 /* Preview Content */,
 			);
@@ -127,6 +133,7 @@
 			files = (
 				3BAABCDC2A5BDF5800D879D4 /* Preview Assets.xcassets in Resources */,
 				3BAABCD92A5BDF5800D879D4 /* Assets.xcassets in Resources */,
+				3BAABCE72A5BEACA00D879D4 /* prosto-chpok.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +146,7 @@
 			files = (
 				3BAABCD72A5BDF5700D879D4 /* ContentView.swift in Sources */,
 				3BAABCD52A5BDF5700D879D4 /* SimpleTapGameApp.swift in Sources */,
+				3BAABCE52A5BE00C00D879D4 /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
