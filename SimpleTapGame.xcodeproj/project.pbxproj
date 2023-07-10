@@ -13,6 +13,9 @@
 		3BAABCDC2A5BDF5800D879D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BAABCDB2A5BDF5800D879D4 /* Preview Assets.xcassets */; };
 		3BAABCE52A5BE00C00D879D4 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */; };
 		3BAABCE72A5BEACA00D879D4 /* prosto-chpok.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */; };
+		3BBEEE062A5C217E008DC088 /* final.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3BBEEE052A5C217E008DC088 /* final.wav */; };
+		3BBEEE082A5C23A8008DC088 /* final.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3BBEEE072A5C23A8008DC088 /* final.mp3 */; };
+		3BBEEE0A2A5C269E008DC088 /* applepay.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3BBEEE092A5C269E008DC088 /* applepay.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +26,9 @@
 		3BAABCDB2A5BDF5800D879D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "prosto-chpok.mp3"; sourceTree = "<group>"; };
+		3BBEEE052A5C217E008DC088 /* final.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = final.wav; sourceTree = "<group>"; };
+		3BBEEE072A5C23A8008DC088 /* final.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = final.mp3; sourceTree = "<group>"; };
+		3BBEEE092A5C269E008DC088 /* applepay.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = applepay.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				3BAABCD62A5BDF5700D879D4 /* ContentView.swift */,
 				3BAABCE42A5BE00C00D879D4 /* CustomButton.swift */,
 				3BAABCE62A5BEACA00D879D4 /* prosto-chpok.mp3 */,
+				3BBEEE052A5C217E008DC088 /* final.wav */,
+				3BBEEE092A5C269E008DC088 /* applepay.mp3 */,
+				3BBEEE072A5C23A8008DC088 /* final.mp3 */,
 				3BAABCD82A5BDF5800D879D4 /* Assets.xcassets */,
 				3BAABCDA2A5BDF5800D879D4 /* Preview Content */,
 			);
@@ -131,9 +140,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BBEEE0A2A5C269E008DC088 /* applepay.mp3 in Resources */,
+				3BBEEE082A5C23A8008DC088 /* final.mp3 in Resources */,
 				3BAABCDC2A5BDF5800D879D4 /* Preview Assets.xcassets in Resources */,
 				3BAABCD92A5BDF5800D879D4 /* Assets.xcassets in Resources */,
 				3BAABCE72A5BEACA00D879D4 /* prosto-chpok.mp3 in Resources */,
+				3BBEEE062A5C217E008DC088 /* final.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
